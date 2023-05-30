@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p 
-        class="borderexample">Here is an example of a border created using CSS.
+        class="borderexample">Letters will go here
         </p>
         <a
           className="App-link"
